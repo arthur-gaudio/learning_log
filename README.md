@@ -26,13 +26,6 @@ Use `TEMPLATE.md` as a copy/paste base.
 
 ---
 
-## Suggested weekly routine (5h/day)
-- **2h** learning (course modules)
-- **2h** practice (queries/measures/scripts)
-- **1h** ship (commit notes + code + screenshots)
-
----
-
 ## How I use this repo
 - Write the daily entry
 - Link to the specific exercises I did in `sql/`
