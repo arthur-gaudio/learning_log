@@ -24,3 +24,38 @@ Focus: <what I focused on today>
 ## 3) Code snippets (if any)
 ```python
 # snippet here
+```
+```sql
+# snippet here
+```
+## 4) Exercises completed
+
+Repo: sql
+
+File(s):
+
+exercises/0xx_....sql
+
+patterns/...
+
+### What I struggled with:
+
+### What clicked:
+
+## 5) Output shipped today
+
+ - Notes committed
+
+ - Exercises committed
+
+ - Screenshot(s) added (if relevant)
+
+ - README updated (if needed)
+
+## 6) Tomorrow plan (specific)
+
+- [ ]
+
+- [ ]
+
+- [ ]
