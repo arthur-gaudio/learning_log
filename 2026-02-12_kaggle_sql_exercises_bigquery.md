@@ -62,11 +62,11 @@ df = client.query(query).to_dataframe()
 
 File(s):
 - [Exercise 001 — Getting Started with SQL + BigQuery](https://github.com/arthur-gaudio/sql/blob/main/exercises/001_getting_started_bigquery.md)
-- [Exercise 002 — SELECT / FROM / WHERE](https://github.com/arthur-gaudio/sql/blob/main/exercises/002_select_from_where.md)
-- [Exercise 003 — GROUP BY / HAVING / COUNT](https://github.com/arthur-gaudio/sql/blob/main/exercises/003_group_by_having_count.md)
-- [Exercise 004 — ORDER BY](https://github.com/arthur-gaudio/sql/blob/main/exercises/004_order_by.md)
-- [Exercise 005 — AS + WITH (CTEs) + EXTRACT](https://github.com/arthur-gaudio/sql/blob/main/exercises/005_as_with_cte.md)
-- [Exercise 006 — JOINing Data](https://github.com/arthur-gaudio/sql/blob/main/exercises/006_joining_data.md)
+- [Exercise 002 — SELECT / FROM / WHERE](https://github.com/arthur-gaudio/sql/blob/main/exercises/002_select_from_where_openaq.md)
+- [Exercise 003 — GROUP BY / HAVING / COUNT](https://github.com/arthur-gaudio/sql/blob/main/exercises/003_groupby_having_count_hackernews.md)
+- [Exercise 004 — ORDER BY](https://github.com/arthur-gaudio/sql/blob/main/exercises/004_order_by_world_bank.md)
+- [Exercise 005 — AS + WITH (CTEs) + EXTRACT](https://github.com/arthur-gaudio/sql/blob/main/exercises/005_as_with_cte_chicago_taxi.md)
+- [Exercise 006 — JOINing Data](https://github.com/arthur-gaudio/sql/blob/main/exercises/006_joining_data_stackoverflow.md)
 
 ## What I struggled with:
 - Keeping longer queries organized (especially CTEs with multiple filters and calculated fields).
