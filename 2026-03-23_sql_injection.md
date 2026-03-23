@@ -1,6 +1,6 @@
 # Daily Log — SQL Injection Intro + OWASP Injection Reading
 Date: 2026-03-23 
-Time spent: 2 hours  
+- Time spent: 2 hours  
 Focus: Studied the introduction to SQL injection in PortSwigger and read the OWASP Top 10 Injection topic
 
 ---
