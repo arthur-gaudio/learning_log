@@ -1,15 +1,8 @@
 # learning_log
 
-Daily entries on what I learn while working toward:
-**Data Analyst (primary)** + **Software Developer (Java secondary)** + optional **JavaScript** later.
+Daily entries on what I learn while working toward becoming a Cybersecurity and Pentesting professional
 
 This repo is for: notes, summaries, takeaways, and next steps.
-Code + exercises live in the other repos:
-- `sql` (SQL patterns + exercises)
-- `powerbi` (dashboards + DAX)
-- `python` (pipelines + notebooks)
-- `stats` (stats notes + practice)
-
 ---
 
 ## Naming convention
@@ -28,9 +21,8 @@ Use `TEMPLATE.md` as a copy/paste base.
 
 ## How I use this repo
 - Write the daily entry
-- Link to the specific exercises I did in `sql/`
-- Link to any Python scripts/notebooks created in `python/`
-- Link to any PBIX screenshots/measures in `powerbi/`
+- Link to the specific exercises I did
+- Link to any scripts/notebooks created
 - Write tomorrow’s plan (so momentum stays easy)
 
 ---
