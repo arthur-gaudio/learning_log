@@ -35,11 +35,10 @@ Use `TEMPLATE.md` as a copy/paste base.
 
 ---
 
-## Quick links (paste-able)
+## Quick links
 Learning:
-- SQL (Kaggle): https://www.kaggle.com/learn/intro-to-sql
-- SQL Advanced (Kaggle): https://www.kaggle.com/learn/advanced-sql
-- Power BI (Microsoft Learn): https://learn.microsoft.com/en-us/training/powerplatform/power-bi
-- DAX (SQLBI free): https://www.sqlbi.com/p/introducing-dax-video-course/
-- Python (freeCodeCamp): https://www.freecodecamp.org/learn/data-analysis-with-python
-- Stats (Khan Academy): https://www.khanacademy.org/math/statistics-probability
+- PortSwigger Web Security Academy
+- OWASP Top 10
+- OWASP Juice Shop
+- Root-Me or Google CTF
+- Burp Suite Community
