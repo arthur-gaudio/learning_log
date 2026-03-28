@@ -57,6 +57,7 @@
 ```python
 # No Python code today
 ```
+---
 
 ## 4) Exercises completed
 - Completed in the Learning Path
@@ -71,9 +72,11 @@
 - The big picture of SQL injection: user input becomes dangerous when it changes the meaning of the backend query.
 - Why determining the number of columns matters before using UNION.
 - The connection between PortSwigger lab topics and OWASP’s broader explanation of Injection and prevention.
+---
 
 ## 5) Output shipped today
  - Notes committed
+---
 
 ## 6) Tomorrow plan
 - Continue SQLi Path in PortSwigger
